@@ -15,4 +15,3 @@
 
 ## ✨ Highlights
 - Design engineer => Engineer Developer
-[Resume_Maksim_Vinogradov.pdf](https://github.com/user-attachments/files/20958874/Resume_Maksim_Vinogradov.pdf)
