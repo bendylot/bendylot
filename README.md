@@ -1,4 +1,4 @@
-# 🚀 Junior+ Backend Engineer · C#
+# C# developer
 
 Разбираюсь в ООП, интересуюсь ML и DL
 
